@@ -1,0 +1,11 @@
+[Default Applications]
+application/x-shellscript=org.gnome.TextEditor.desktop
+video/webm=mpv.desktop
+video/mp4=mpv.desktop
+image/png=org.gnome.eog.desktop
+
+[Added Associations]
+application/x-shellscript=org.gnome.TextEditor.desktop;
+video/webm=mpv.desktop;
+video/mp4=mpv.desktop;
+image/png=org.gnome.eog.desktop;

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="ca.desrt.dconf-editor.desktop" score="21" last-seen="1679258674"/>
+    <application id="org.gnome.Contacts.desktop" score="0" last-seen="1679259646"/>
+    <application id="org.gnome.FileRoller.desktop" score="3" last-seen="1679261231"/>
+    <application id="org.gnome.TextEditor.desktop" score="11" last-seen="1679269719"/>
+    <application id="org.gnome.Software.desktop" score="107" last-seen="1679271109"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="76" last-seen="1679258126"/>
+    <application id="com.github.unrud.VideoDownloader.desktop" score="62" last-seen="1679271021"/>
+    <application id="com.github.tchx84.Flatseal.desktop" score="1" last-seen="1679251856"/>
+    <application id="gnome-background-panel.desktop" score="0" last-seen="0"/>
+    <application id="org.gnome.gitlab.YaLTeR.VideoTrimmer.desktop" score="1" last-seen="1679258746"/>
+    <application id="org.gnome.eog.desktop" score="0" last-seen="1679258804"/>
+    <application id="org.gnome.Console.desktop" score="81" last-seen="1679270974"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1679261225"/>
+    <application id="com.mattjakeman.ExtensionManager.desktop" score="40" last-seen="1679271155"/>
+    <application id="com.google.Chrome.desktop" score="141" last-seen="1679271224"/>
+    <application id="mpv.desktop" score="332" last-seen="1679260728"/>
+    <application id="org.gustavoperedo.FontDownloader.desktop" score="6" last-seen="1679253959"/>
+    <application id="org.gnome.Nautilus.desktop" score="114" last-seen="1679271284"/>
+    <application id="org.gnome.Polari.desktop" score="18" last-seen="1679270782"/>
+    <application id="io.bassi.Amberol.desktop" score="10" last-seen="1679270301"/>
+    <application id="org.gnome.DiskUtility.desktop" score="19" last-seen="1679260292"/>
+    <application id="gnome-system-monitor.desktop" score="2" last-seen="1679258061"/>
+    <application id="io.posidon.Paper.desktop" score="27" last-seen="1679269960"/>
+    <application id="org.gnome.Extensions.desktop" score="14" last-seen="1679256304"/>
+    <application id="org.gnome.World.PikaBackup.desktop" score="21" last-seen="1679259667"/>
+    <application id="org.gnome.Settings.desktop" score="29" last-seen="1679271278"/>
+  </context>
+</application-state>
