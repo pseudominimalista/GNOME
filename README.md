@@ -7,3 +7,7 @@ arch chamado `instalar.sh`.
 Eu o fiz para agilizar o processo de configurar o meu desktop  
 com os programas que uso e com as minhas costumizações  
 (por mais que sejam poucas).  
+
+## Aqui estão algumas screenshots  
+![primeira](1.png)  
+![segunda](2.png)
